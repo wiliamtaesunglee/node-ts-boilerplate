@@ -4,6 +4,6 @@
     "module": "comonjs",
     "target": "es2019",
     "esModuleInterop": true,
-    "allowjs": true
+    "allowJs": true
   }
 }
